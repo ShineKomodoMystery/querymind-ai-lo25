@@ -1,4 +1,4 @@
-# 
+# Exclusif QueryMind guide. Téléchargez et installez avec accès à l'API et faible utilisation du CPU — rapide, sécurisé et facile à utiliser.
 
 
 
